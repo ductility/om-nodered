@@ -30,7 +30,18 @@ Pull ductility/om-nodered Docker image.
 $ docker pull ductility/om-nodered
 ```
 
+Clone this Repository
+```bash
+git clone https://github.com/ductility/om-nodered.git
+```
+
+
 ## RUN
+Move to om-nodered
+```bash
+cd om-nodered
+```
+
 Run docker container
 
 ```bash
