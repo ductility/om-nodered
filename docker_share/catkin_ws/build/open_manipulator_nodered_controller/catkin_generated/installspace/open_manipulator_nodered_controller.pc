@@ -1,0 +1,8 @@
+prefix=/home/siop/docker_share/catkin_ws/install
+
+Name: open_manipulator_nodered_controller
+Description: Description of open_manipulator_nodered_controller
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs open_manipulator_msgs
